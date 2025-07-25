@@ -1,4 +1,4 @@
-# sports-odds-api from fastapi import FastAPI, Query
+from fastapi import FastAPI, Query
 import requests
 
 app = FastAPI()
